@@ -24,4 +24,7 @@ class RandomNumber:
             random_list = random.sample(range(min_range, max_range), amount)
             print(random_list)
             print(type(random_list[0]))
-            print(len(random_list))
+            print(len(random_list)
+
+RandomNumber.random_number(5, 10, 20)
+)
