@@ -33,6 +33,20 @@ class RandomNumber:
 
 
 
+
+
+"""Choose and run the implementation types by removing the #"""
+
+
+"""Correct implementation of the code"""
 RandomNumber.random_number(5, 1, 20)
 
+"""Implementing the amount of numbers higher than the length of range min_range and max_range"""
+#RandomNumber.random_number(5, 18, 20)
+
+"""Implementation with variable min_range being higher than variable max_range"""
+#RandomNumber.random_number(5, 1, 20)
+
+"""Implementation of variable amount being a string, which will raise an Error"""
+#RandomNumber.random_number("string", 1, 20)
 
